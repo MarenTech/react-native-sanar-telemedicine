@@ -23,7 +23,7 @@ Connect | func | yes | - | Accepts cid & user details and generate user info to 
 Parameters
 
 - cid: string
-- info : [UserInfo](/doc#userinfo)
+- info : [UserInfo](/docs#userinfo)
 
 ### SanarRTC: 
 Sanar videocall frames to initiate videocall
