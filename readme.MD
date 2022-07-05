@@ -5,7 +5,7 @@ React Native library for Sanar Telemedicine
 ### SDK will support the following implementation
 
 - ### [SanarTelemedicine](https://github.com/MarenTech/react-native-sanar-telemedicine/blob/main/docs#sanartelemedicine-)
-- ### [SanarRTC](https://github.com/MarenTech/react-native-sanar-telemedicine/tree/main/docs#sanarrtc)
+- ### [SanarRTC](/docs#sanarrtc)
 - ### [SanarBooking](https://github.com/MarenTech/react-native-sanar-telemedicine/tree/main/docs#sanarbooking)
 - ### [SanarChat](https://github.com/MarenTech/react-native-sanar-telemedicine/tree/main/docs#sanarchat)
 
