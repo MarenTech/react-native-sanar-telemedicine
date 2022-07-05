@@ -23,7 +23,7 @@ Connect | func | yes | - | Accepts cid & user details and generate user info to 
 Parameters
 
 - cid: string
-- info : [UserInfo](/docs#userinfo)
+- info : [UserInfo](https://github.com/MarenTech/react-native-sanar-telemedicine/tree/main/docs#userinfo-)
 
 ### SanarRTC: 
 Sanar videocall frames to initiate videocall
